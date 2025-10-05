@@ -14,7 +14,7 @@ This repo is the single landing page for all Milestone 2 deliverables.
 
 ---
 
-## Deliverables index (as required on Brightspace)
+## Deliverables index
 
 1. **Presentation link**  
    _Add your slide link here:_ ➜ `[Add presentation link]`
