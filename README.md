@@ -32,7 +32,7 @@ This repo is the single landing page for all Milestone 2 deliverables.
 
 4. **Customer discovery summary**
 
-   - Summary: ➜ `[Add file or link]`
+   - Summary: ➜ [`docs/customer_discovery/customer_discovery.md`](docs/customer_discovery/customer_discovery.md)
 
 5. **Preliminary target market profile**
 

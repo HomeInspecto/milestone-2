@@ -1,13 +1,13 @@
-#### Customer Discover Insights
+# Customer Discover Insights
 
-### 3.0 | Customer Discovery
+## 3.0 | Customer Discovery
 
 This section summarizes our customer discovery to date. Who we have spoken to, what our key observations are, and how the patterns we noticed inform our problem definition, value proposition and our early product direction. Our exploration mainly focused on understanding an inspector's current workflow, where pain occurs and which pain points we want to target.
 
-### 3.1 | Discovery process
+## 3.1 | Discovery process
 
 Our discovery process was done fully through cold calling. We compiled local company contact lists through our searches on google, reports given to us from mentors, our own personal contacts, and the BC provincial Home Inspector License Registry. Less successfully we tried to compile contacts using Apollo.io [x] but did not end up using the results. Once all the contacts were gathered, we made a spreadsheet to track who is interested in talking, who we have contacted, and where/when/how we will be meeting.
 
-### 3.3 | Discovery Results
+## 3.3 | Discovery Results
 
 We spoke to a diverse set of home inspector businesses that we contacted through cold calling. They range from members of large international franchises (A Buyer’s Choice), local businesses with a small team (Home Check), and individual home inspectors operating alone(Lockwood Home Inspections). Each had their own personal pains in their workflow with a big common pain that we discovered. For a small business like Home Check they mainly have pains around managing their data and admin, with pains of the inspector in the field being secondary at this time. Report writing is still something they are trying to boost efficiency around and they currently have an in-house solution to help automate report writing but they say it still leaves much to be desired and suffers from a lot of bugs. Lockwood Home Inspections is a one man operation and their main pain point is report writing specifically how time consuming it is. They say that they have a lot of late nights writing up their reports, making a point that a tool that fits their needs and helps streamline the process is greatly desired. We also learned from our interview of franchise members from A Buyer’s Choice that they use software tools provided to them by their franchise (Home Inspector Pro) to help with stream lining the report writing process already. But this comes with the caveat that these tools are getting older and don’t see many new changes or innovation to keep up with all the current needs of home inspectors. They wish they could use a more modern tool but are forced to stay with their current one due to it being the standard use across their franchise. These insights point towards report writing, a very time consuming process, being a common problem that many home inspectors have. A strong desire for a solution is emphasized by our contact with Lockwood Home Inspections, who is willing to work closely with us to develop a solution that streamlines report writing. This leads into our customer profile that we will be targeting going forward being defined as the "Efficiency Seekers”. Which we will outline in more detail in the next section.
